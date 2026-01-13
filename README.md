@@ -114,8 +114,8 @@ The platform offers multiple subscription tiers:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/manishaak2025/Stock-Price-Prediction.git
-   cd Stock-Price-Prediction
+   git clone [https://github.com/manishaak2025/Stock-Price-Prediction.git](https://github.com/manishaak2025/stock-price-prediction-.git)
+   cd stock-price-prediction
    ```
 
 2. Create and activate a virtual environment:
